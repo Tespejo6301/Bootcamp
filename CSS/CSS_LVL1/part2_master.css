@@ -1,0 +1,18 @@
+body{
+  background : url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg);
+  background-repeat: no-repeat;
+}
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 5px;
+  border-style: double;
+}
+p{
+  color: yellow;
+
+}
+span{
+  background: red;
+  color: black;
+}
